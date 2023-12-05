@@ -1,0 +1,3 @@
+in this app i am about to eplain 
+this app reads a text and ulter a specific word that i have set in the source code and ulter these words 
+with word that i have set in the source code
